@@ -74,7 +74,7 @@ Steps
 
 |check| create IDEA project from this directory and setup run/test configurations
 
-|uncheck| create setup.{py,cfg} and fill them with app info:
+|check| create setup.{py,cfg} and fill them with app info:
 
     #. setup.py
     #. setup.cfg
@@ -90,7 +90,7 @@ Steps
     
     #. .gitignore
 
-|uncheck| commit that as an inception point, bump version
+|check| commit that as an inception point, bump version
 
 
 Changelog
